@@ -1,4 +1,4 @@
-#CovidTracker
+# CovidTracker
 This app shows the latest data about the Covid situation all over the world. Link for FrontEnd Code(Java, Spring boot):-https://github.com/BareetSingh/CovidTracker.git
 
 
