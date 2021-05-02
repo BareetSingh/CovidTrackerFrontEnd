@@ -1,3 +1,10 @@
+#CovidTracker
+This app shows the latest data about the Covid situation all over the world. Link for FrontEnd Code(Java, Spring boot):-https://github.com/BareetSingh/CovidTracker.git
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
