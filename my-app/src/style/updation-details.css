@@ -1,0 +1,10 @@
+.position-fixed {
+  position: fixed;
+  opacity: 0.5;
+  top: 138px;
+  right: 0px;
+  height: 30px;
+  width: 380px;
+  border-radius: 10px;
+  background-color: hsl(0, 12%, 97%);
+}

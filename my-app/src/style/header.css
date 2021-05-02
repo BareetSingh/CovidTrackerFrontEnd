@@ -1,0 +1,14 @@
+.my-header {
+  background-image: linear-gradient(to right, white, #709de0, white);
+  color: white;
+
+  font-size: 75px;
+  word-spacing: normal;
+  height: 130px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.header-img {
+  height: 130px;
+}
